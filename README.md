@@ -18,7 +18,7 @@ Happy-Bot is a simple Discord bot designed to provide encouragement and inspirat
 - Discord Bot Token (You can obtain one from the [Discord Developer Portal](https://discord.com/developers/applications))
 
 ## Commands-
-!hello: Greets the user.
+!hello: Greets the user. <br>
 !help: Provides information about the bot.
 !inspire: Fetches and displays an inspirational quote.
 !new [message]: Adds a new encouraging message.
