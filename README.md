@@ -19,11 +19,11 @@ Happy-Bot is a simple Discord bot designed to provide encouragement and inspirat
 
 ## Commands-
 !hello: Greets the user. <br>
-!help: Provides information about the bot.
-!inspire: Fetches and displays an inspirational quote.
-!new [message]: Adds a new encouraging message.
-!del [index]: Deletes an encouraging message at the specified index.
-!list: Lists all stored encouraging messages.
+!help: Provides information about the bot. <br>
+!inspire: Fetches and displays an inspirational quote. <br>
+!new [message]: Adds a new encouraging message. <br>
+!del [index]: Deletes an encouraging message at the specified index.<br>
+!list: Lists all stored encouraging messages.<br>
 !responding [true/false]: Toggles the bot's response to sad words.
 
 ## Hosting-
